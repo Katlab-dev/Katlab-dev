@@ -69,10 +69,6 @@ Probability & Statistics
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Katlab-dev&theme=tokyonight)
-
 
 ---
 
