@@ -57,9 +57,11 @@ Probability & Statistics
 
 ## 📊 GitHub Stats
 
-![Katlego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlab-dev&show_icons=true&theme=tokyonight)
+
+![Katlab-dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Katlab-dev&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Katlab-dev&layout=compact&theme=tokyonight)
+
 
 ---
 
