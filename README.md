@@ -69,15 +69,9 @@ Probability & Statistics
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Katlab-dev&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Katlab-dev&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Katlab-dev&theme=tokyonight)
 
 
 ---
